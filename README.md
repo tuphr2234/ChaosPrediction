@@ -15,7 +15,7 @@ True trajectory (created with a simulation):
 
 
 
-Predicted trajectory (created with a CNN) :
+Predicted trajectory (created with the model) :
 
 
 ![PredictedTrajectory](https://user-images.githubusercontent.com/73993135/185952716-1e686c2f-0a75-4aa3-98c5-c149e6d3be47.png)
