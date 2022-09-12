@@ -3,6 +3,9 @@ Prediction of chaos with deep learning models (N-body problem - time series fore
 The data is created by a simulation.
 
 
+created using conv1d layers:
+
+
 The whole trajectory (created with a simulation):
 
 
@@ -46,7 +49,17 @@ Predicted trajectory (created with the model) :
 
 
 
+created using conv2d layers:
 
 
+True trajectory (created with a simulation):
 
+
+![הורדה](https://user-images.githubusercontent.com/73993135/189724290-2a9e3782-fd09-47c6-81a1-56a0db4205b9.png)
+
+
+Predicted trajectory (created with the model) :
+
+
+![הורדה (2)](https://user-images.githubusercontent.com/73993135/189724478-6f6bbc56-bdb7-43e9-9c6d-a75877d447b7.png)
 
