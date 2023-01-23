@@ -16,7 +16,7 @@ Go to (_setting > Uplink... > Server code_) and *copy your uplink*...
 
 ![image](https://user-images.githubusercontent.com/44236017/214037094-f3aacb89-a517-4299-a9c8-4e92c31d7a7a.png)
 
-Paste your uplink into the second cell in the the notebook
+Paste your uplink into the second cell in the notebook
 
 ![image](https://user-images.githubusercontent.com/44236017/214041146-03335d62-d50d-4322-a236-5be2f29f079f.png)
 
