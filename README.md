@@ -18,8 +18,7 @@ Go to (_setting > Uplink... > Server code_) and *copy your uplink*...
 
 Paste your uplink into the second cell in the the notebook
 
-![image](https://user-images.githubusercontent.com/44236017/214038692-004e73b7-f6bf-4ea5-b91c-1728162c03fc.png)
-
+![image](https://user-images.githubusercontent.com/44236017/214041146-03335d62-d50d-4322-a236-5be2f29f079f.png)
 
 6) Run the entire notebook, using (_Runtime > Run all_)
 ![image](https://user-images.githubusercontent.com/44236017/214040593-8291fbe9-4c0b-40f8-8622-cdfba3c24d3b.png)
