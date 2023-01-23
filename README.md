@@ -21,7 +21,7 @@ Paste your uplink into the second cell in the the notebook
 ![image](https://user-images.githubusercontent.com/44236017/214038692-004e73b7-f6bf-4ea5-b91c-1728162c03fc.png)
 
 
-6) Run the entire notebook, using "Run all"
+6) Run the entire notebook, using (_Runtime > Run all_)
 ![image](https://user-images.githubusercontent.com/44236017/214040593-8291fbe9-4c0b-40f8-8622-cdfba3c24d3b.png)
 
 8) Run the anvil app:
