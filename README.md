@@ -27,7 +27,7 @@ Paste your uplink into the second cell in the the notebook
 
 ![image](https://user-images.githubusercontent.com/44236017/214039682-f37b2d28-ad22-4537-82fa-9df2859fb8d8.png)
 
-8) enjoy! 🤓
+8) enjoy! 🤓🤓
 
 
 # Results:
